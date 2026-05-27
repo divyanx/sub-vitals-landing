@@ -12,7 +12,7 @@ export function Footer() {
           <div className="flex items-center gap-3">
             <div className="w-8 h-8 rounded-lg overflow-hidden ring-1 ring-white/10">
               <Image
-                src="/icon-1024.png"
+                src="/sub-vitals-landing/icon-1024.png"
                 alt="SubVitals"
                 width={32}
                 height={32}

@@ -21,7 +21,7 @@ export function Nav() {
         <Link href="/" className="flex items-center gap-3 group">
           <div className="w-8 h-8 rounded-lg overflow-hidden ring-1 ring-white/10 group-hover:ring-[#ff4500]/50 transition-all">
             <Image
-              src="/icon-1024.png"
+              src="/sub-vitals-landing/icon-1024.png"
               alt="SubVitals"
               width={32}
               height={32}

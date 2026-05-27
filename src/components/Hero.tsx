@@ -130,7 +130,7 @@ export function Hero() {
               Install on Reddit
             </a>
             <a
-              href="#"
+              href="https://github.com/divyanx/sub-vitals"
               className="flex items-center gap-2 bg-white/5 hover:bg-white/10 border border-white/10 hover:border-white/20 text-white font-semibold px-8 py-4 rounded-xl text-base transition-all hover:-translate-y-0.5"
             >
               <svg className="w-5 h-5" viewBox="0 0 24 24" fill="currentColor">

@@ -44,7 +44,7 @@ export function Footer() {
               Terms of Service
             </Link>
             <a
-              href="#"
+              href="https://github.com/divyanx/sub-vitals"
               className="hover:text-white transition-colors flex items-center gap-1.5"
             >
               <svg className="w-4 h-4" viewBox="0 0 24 24" fill="currentColor">

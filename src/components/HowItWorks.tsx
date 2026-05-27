@@ -154,8 +154,8 @@ export function HowItWorks() {
 
         {/* Steps */}
         <div className="relative">
-          {/* Connecting line — desktop only */}
-          <div className="hidden lg:block absolute top-12 left-[calc(16.67%+24px)] right-[calc(16.67%+24px)] h-px bg-gradient-to-r from-white/10 via-[#ff4500]/30 to-white/10" />
+          {/* Connecting line — desktop only, vertically centered on the icon circles */}
+          <div className="hidden lg:block absolute top-[30px] left-[calc(16.67%+40px)] right-[calc(16.67%+40px)] h-[2px] bg-gradient-to-r from-[#ff4500]/40 via-[#ff4500]/20 to-[#ff4500]/40" />
 
           <div className="grid grid-cols-1 lg:grid-cols-3 gap-12 lg:gap-8">
             {steps.map((step, i) => (
